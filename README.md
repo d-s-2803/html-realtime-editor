@@ -9,7 +9,7 @@ This website is developed to ease the compilation of html codes. In this editor 
 
 HOW TO COMPILE :
 
-Store all the files in a folder named html-online-editor.
+Store all the files in a folder named html-realtime-editor.
 
 Double click on the file named "index" the extension of this file is html which direct the user to webpage directly.
 
