@@ -1,4 +1,4 @@
-# html-online-editor
+# html-realtime-editor
 NAME : DHRUVIL SHAH
 
 EMAIL-ID : dhruvilshah077@gmail.com
